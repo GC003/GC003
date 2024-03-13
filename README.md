@@ -4,7 +4,7 @@
 
 ## Skills:
 -Pyhton </br>
--Java Script  </br>
+-![Java Script] (https://img.shields.io/badge/logo-javascript-blue?logo=javascript) </br>
 -C++  </br>
 -R  </br>
 -HTML  </br>
