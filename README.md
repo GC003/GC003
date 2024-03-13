@@ -3,11 +3,12 @@
 ### I'm a Jr. Developer, interested in Data Science and currently learning about cybersecurity.
 
 ## My Skills:
--![Pyhton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </br>
--![Java Script](https://img.shields.io/badge/-Java%20Script-grey?logo=javascript) </br>
--![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)  </br>
--![R](https://img.shields.io/badge/R-blue)  </br>
--![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)  </br>
+![Pyhton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </br>
+![Java Script](https://img.shields.io/badge/-Java%20Script-grey?logo=javascript) </br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)  </br>
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)  </br>
+![R](https://img.shields.io/badge/R-blue)  </br>
+
 
 <!--
 **GC003/GC003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
