@@ -1,9 +1,9 @@
-# 👋 Hi there, my name is Guillermo Carmona.
+# 👋 Hello there, my name is Guillermo Carmona.
 
 ### I'm a Jr. Developer, intrested in Data science and currently learning about cybersecurity.
 
 ## Skills:
--Pyhton
+-Pyhton </br>
 -Java Script
 -C++
 -R
