@@ -4,10 +4,10 @@
 
 ## Skills:
 -Pyhton </br>
--Java Script
--C++
--R
--HTML
+-Java Script  </br>
+-C++  </br>
+-R  </br>
+-HTML  </br>
 
 <!--
 **GC003/GC003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
