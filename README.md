@@ -1,6 +1,6 @@
 # 👋 Hello there, my name is Guillermo Carmona.
 
-### I'm a Jr. Developer, interested in Data Science and currently learning about cybersecurity.
+### I'm a Jr. Developer interested in Data Science and currently learning about cybersecurity.
 
 ## My Skills:
 ![Pyhton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </br>
