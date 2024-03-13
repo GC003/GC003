@@ -1,4 +1,13 @@
-### Hi there, my name is Guillermo Carmona 👋
+# 👋 Hi there, my name is Guillermo Carmona.
+
+### I'm a Jr. Developer, intrested in Data science and currently learning about cybersecurity.
+
+## Skills:
+-Pyhton
+-Java Script
+-C++
+-R
+-HTML
 
 <!--
 **GC003/GC003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
